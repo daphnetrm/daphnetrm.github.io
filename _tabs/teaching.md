@@ -1,4 +1,5 @@
 ---
+# the default layout is 'page'
 layout: teaching
 icon: fas fa-stream
 order: 1
