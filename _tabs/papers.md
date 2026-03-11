@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-layout: papers
+<!--layout: papers-->
 icon: fas fa-archive
 order: 3
 ---
