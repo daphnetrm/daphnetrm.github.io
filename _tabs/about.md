@@ -4,8 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }
 >
 > # Ceci est un test
-> un, deux, trois
+> I am currently a post-doc at Inria Paris. I finished my PhD in November 2025 at CEA. My research focuses on Fully Homomorphic Encryption (FHE), and especially the TFHE cryptosystem.
