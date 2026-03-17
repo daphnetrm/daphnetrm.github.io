@@ -17,7 +17,7 @@ The ENSTA IN102 course, presented on the dedicated page [here](https://perso.ens
 # Introduction to Homomorphic Encryption
 ## 2022-2025
 
-Course coordinator : Mirelle Fouquet
+Course coordinator : Mireille Fouquet
 
 The [Asymmetric Cryptography](https://master.math.u-paris.fr/modules/m2mic-crypto-asym) course in the M2 Mathematics, Computer Science, Cryptology, and Security program at Paris Cité University is a 3 ECTS module organized over one semester with approximately 20 hours of lectures and 30 hours of practical work. Its objective is to provide an understanding of public-key cryptography protocols and their underlying mathematical foundations. Thus, the mathematical structures and hard problems underlying the security of cryptosystems are studied alongside encryption algorithms.
 In this context, I have taught the basics of homomorphic encryption during a 2 hours course.
