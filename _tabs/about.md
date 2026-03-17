@@ -6,5 +6,5 @@ order: 4
 
 <!--{: .prompt-tip }-->
 
-# Ceci est un test
-I am currently a post-doc at Inria Paris. I finished my PhD in November 2025 at CEA. My research focuses on Fully Homomorphic Encryption (FHE), and especially the TFHE cryptosystem.
+
+I am currently a post-doc at Inria Paris, within the COSMIQ team. I finished my PhD in November 2025 at CEA-LIST. During my PhD, my research focused on Fully Homomorphic Encryption (FHE), and especially the TFHE cryptosystem. I still work on FHE, and particularly on transciphering and connections between symmetric ciphers and homomorphic ones.
