@@ -26,6 +26,6 @@ Sonia Belaïd, Nicolas Bon, Aymen Boudguiga, Daphné Trama, Renaud Sirdey and Ni
 
 ## A Homomorphic AES Evaluation in Less than 30 Seconds by Means of TFHE  
 Daphné Trama, Pierre-Emmanuel Clet, Aymen Boudguiga and Renaud Sirdey  
-*WHAC 2023*  
+*WAHC 2023*  
 [link to the paper](https://dl.acm.org/doi/10.1145/3605759.3625260)
 
